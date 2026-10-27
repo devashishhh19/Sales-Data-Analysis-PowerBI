@@ -31,7 +31,7 @@ This dashboard page includes:
 - Profit vs Net Sales
 - Sales Trend by Period
 
-![Sales Dashboard Overview](screenshots/sales_dashboard_overview.png)
+![Sales Dashboard Overview](./Overview.png)
 
 ### 2. Top 5 and Bottom 5 Products Analysis
 
@@ -42,7 +42,7 @@ This page compares products across three metrics:
 
 It displays the top 5 and bottom 5 products for each metric.
 
-![Top and Bottom Products Analysis](screenshots/top_bottom_products.png)
+![Sales and Quantity Profit Analysis](./Sales_Quantity_Profit.png)
 
 ### 3. Date Filter and Comparison Analysis
 
@@ -53,8 +53,7 @@ This page includes date range filters and comparisons for:
 
 Users can explore the displayed metrics for a selected date range.
 
-![Date Filter and Comparison Analysis](screenshots/date_filter_analysis.png)
-
+![Top and Bottom Products Analysis](./Top_Bottom.png)
 ## 🔍 Business Questions
 
 This dashboard helps explore the following questions:
